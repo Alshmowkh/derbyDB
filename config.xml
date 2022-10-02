@@ -1,0 +1,14 @@
+<configuration >
+  <preference name="baseDir" value="F:\Master\Thesis\Implementations\derbyDB" />
+  <preference name="testOutputDir" value="F:\Master\Thesis\Implementations\derbyDB\webapps\sigma\tests" />
+  <preference name="cache" value="no" />
+  <preference name="kbDir" value="F:\\Master\\Thesis\\Implementations\\derbyDB\\KBs" />
+  <preference name="showcached" value="yes" />
+  <preference name="loadCELT" value="no" />
+  <preference name="holdsPrefix" value="yes" />
+  <preference name="inferenceEngine" value="C:\\Artic\\vampire\\Vampire_VSWorkspace\\vampire\\Release\\kif.exe" />
+  <preference name="typePrefix" value="no" />
+  <preference name="inferenceTestDir" value="C:\\Program Files\\Apache Tomcat 4.0\\tests" />
+  <preference name="TPTP" value="no" />
+</configuration>
+
